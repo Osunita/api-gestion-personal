@@ -24,7 +24,6 @@ API RESTful desarrollada en **.NET 8** para la gestión de tareas y notas person
 | **Lenguaje** | C# |
 | **ORM** | Entity Framework Core |
 | **Base de datos (Dev)** | SQLite |
-| **Base de datos (Prod)** | SQL Server |
 | **Autenticación** | JWT (Bearer Tokens) |
 | **Hash de contraseñas** | BCrypt |
 | **Documentación** | Swagger/OpenAPI |
